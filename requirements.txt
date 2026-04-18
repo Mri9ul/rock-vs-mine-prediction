@@ -1,5 +1,4 @@
-Python 
-Streamlit
-Pandas
-Numpy
-Scikit-learn
+streamlit
+numpy
+pandas
+scikit-learn
