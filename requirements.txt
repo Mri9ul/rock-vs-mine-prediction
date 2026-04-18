@@ -1,4 +1,5 @@
 Python 
-Scikit-learn 
-Pandas 
-NumPy
+Streamlit
+Pandas
+Numpy
+Scikit-learn
